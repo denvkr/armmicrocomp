@@ -1,0 +1,6 @@
+.rus_flag_img,.en_flag_img {
+border:0px;
+}
+.rus_flag_img,.en_flag_img a:hover {
+border:1px solid #CCCCCC;
+}
